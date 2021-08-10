@@ -1,5 +1,4 @@
-># TOP 5
-SERIES <h1>
+># TOP 5 <h1> series
 1. Item 1
 1. Item 2
 1. Item 3
